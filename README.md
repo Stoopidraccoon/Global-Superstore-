@@ -12,9 +12,9 @@ The dashboard enables users to analyze sales performance, profit, and customer i
 
 - Display key performance indicators (KPIs):
 
-Total Sales
+- -Total Sales
 
-Total Profit
+- -Total Profit
 
 - Top 5 Customers by Sales
 
@@ -32,19 +32,19 @@ Total Profit
 
 - KPIs (Cards):
 
-Total Sales
+- -Total Sales
 
-Total Profit
+- -Total Profit
 
 - Charts:
 
-Sales by Region (Bar)
+- - Sales by Region (Bar)
 
-Sales by Category & Sub-Category (Stacked Column)
+- - Sales by Category & Sub-Category (Stacked Column)
 
-Top 5 Customers by Sales (Bar with Top N filter)
+- - Top 5 Customers by Sales (Bar with Top N filter)
 
-Sales by Region (Clustered Bar)
+- - Sales by Region (Clustered Bar)
 
 **Final Dashboard Features**
 
